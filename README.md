@@ -1,7 +1,7 @@
 # 🦜 ParrotsBot 🦜
 
-### Simple telegram bot that repeats everything you write => https://t.me/parrotG10_bot 🦜
+#### Un semplice bot telegram che ripete tutto quello che gli si dice.
 
-#### The code is written in the repository
+Per utilizzarlo cliccare [**qui**](https://t.me/parrotG10_bot) 🦜
 
-##### For Donation => paypal.me/FrancescoG10 😁
+_PS: il bot gira su Raspberry, nel caso non dovesse funzionare è solo perchè momentaneamente spento_.
